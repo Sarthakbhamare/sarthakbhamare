@@ -17,7 +17,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
 
 <!-- Quick links -->
 <p align="center">
-  <a href="https://linkedin.com/in/sarthak-bhamare-89914b288" target="_blank">
+  <a href="https://www.linkedin.com/in/sarthak-bhamare-899148288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sarthakbhamare.github.io/My-Portfolio/" target="_blank">
