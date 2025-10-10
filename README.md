@@ -83,11 +83,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthakbhamare&theme=tokyonight&hide_border=true" alt="streak"/>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Sarthakbhamare&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true" alt="trophies"/>
-    </td>
-  </tr>
+  
 </table>
 
 <!-- Contribution Details -->
@@ -96,9 +92,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
 </p>
 
 <!-- Optional: Activity Graph (needs GH token on newer forks sometimes) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthakbhamare&theme=tokyo-night&hide_border=true" alt="activity graph"/>
-</p>
+
 
 ---
 
@@ -159,36 +153,7 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
   </a>
 </p>
 
----
 
-<h2 align="center">📝 Latest Blog Posts</h2>
-
-<!-- RSS to Cards: use actions to auto-update (blog-post-workflow) -->
-<!-- Replace with your blog/RSS if you have one -->
-<!--
-- <a href="YOUR_POST_URL" target="_blank">Title A</a> — short blurb
-- <a href="YOUR_POST_URL" target="_blank">Title B</a> — short blurb
--->
-
----
-
-<h2 align="center">🎧 Now Playing</h2>
-
-<p align="center">
-  <!-- Replace YOUR_SPOTIFY_USER_ID with your Spotify user id -->
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/now-playing?u=YOUR_SPOTIFY_USER_ID&theme=default" alt="Spotify Now Playing"/>
-  </a>
-</p>
-
----
-
-<h2 align="center">📈 Contribution Goodies</h2>
-
-<p align="center">
-  <!-- Contribution Snake (enable GH Actions on repo 'output' branch or keep this hosted one) -->
-  <img src="https://github.com/Sarthakbhamare/Sarthakbhamare/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
 
 <!-- Wave Footer -->
 <p align="center">
