@@ -63,7 +63,6 @@
       <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, GitHub Actions</p>
     </td>
     <tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>🏨 Slooze Hotel Management Platform</h3>
       <p>Full-stack food-ordering RBAC system with multi-role dashboards, seeded data, and end-to-end order flows.</p>
