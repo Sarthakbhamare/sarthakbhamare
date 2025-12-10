@@ -51,94 +51,90 @@
 
 --
 
-<!-- ---------------------------------------------------------------------- -->
-<!-- 🚀 LIVE PROJECTS -->
-<!-- ---------------------------------------------------------------------- -->
-
 <table width="100%">
 
-  <!-- Row 1 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏨 Slooze Hotel Management Platform</h3>
-      <p>Full-stack food-ordering RBAC system with multi-role dashboards, seeded data, and end-to-end order flows.</p>
-      <p>
-        <a href="https://slooze-hotel-management.vercel.app/">Live Frontend</a> ·
-        <a href="https://sloozehotelmanagement-production.up.railway.app/api">Live API</a> ·
-        <a href="https://github.com/Sarthakbhamare/Slooze_Hotel_Management-">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> Next.js 14, NestJS 11, Prisma, PostgreSQL, Tailwind</p>
-    </td>
+<!-- Row 1 -->
+<tr>
+  <td width="50%" valign="top">
+    <h3>🛡️ Cybersafe AI Fraud Detection</h3>
+    <p>Cybersecurity education with multilingual content, ML phishing detection, and research reports.</p>
+    <p>
+      <a href="https://sarthakbhamare.github.io/Cybersafe/">Live Demo</a> ·
+      <a href="https://github.com/Sarthakbhamare/Cybersafe">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, MongoDB, GitHub Actions</p>
+  </td>
 
-    <td width="50%" valign="top">
-      <h3>🩺 Docare Healthcare Suite</h3>
-      <p>Telehealth portal featuring AI symptom checks, emergency SOS, payment flows, and detailed deployment docs.</p>
-      <p>
-        <a href="https://sarthakbhamare.github.io/Docare/">Live Demo</a> ·
-        <a href="https://github.com/Sarthakbhamare/Docare">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> Vanilla JS, Node.js services, MongoDB, PowerShell automation</p>
-    </td>
-  </tr>
+  <td width="50%" valign="top">
+    <h3>🎟️ Tourista QR Guidance App</h3>
+    <p>Tourist companion with QR venue scanning, curated highlights, and Tailwind UI.</p>
+    <p>
+      <a href="https://priya394.github.io/Tourista-Tourist-Guidance-QR-based-App/">Live Demo</a> ·
+      <a href="https://github.com/Sarthakbhamare/Tourista-Tourist-Guidance-QR-based-App">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> React, Vite, Tailwind CSS</p>
+  </td>
+</tr>
 
-  <!-- Row 2 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Cybersafe Awareness Hub</h3>
-      <p>Cybersecurity education experience with multilingual content, ML phishing detection, and research reports.</p>
-      <p>
-        <a href="https://sarthakbhamare.github.io/Cybersafe/">Live Demo</a> ·
-        <a href="https://github.com/Sarthakbhamare/Cybersafe">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, MongoDB, GitHub Actions</strong></p>
-    </td>
+<!-- Row 2 -->
+<tr>
+  <td width="50%" valign="top">
+    <h3>🏨 Slooze Hotel Management Platform</h3>
+    <p>Full-stack food-ordering RBAC system with multi-role dashboards, seeded data, and end-to-end order flows.</p>
+    <p>
+      <a href="https://slooze-hotel-management.vercel.app/">Live Frontend</a> ·
+      <a href="https://sloozehotelmanagement-production.up.railway.app/api">Live API</a> ·
+      <a href="https://github.com/Sarthakbhamare/Slooze_Hotel_Management-">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> Next.js 14, NestJS 11, Prisma, PostgreSQL, Tailwind</p>
+  </td>
 
-    <td width="50%" valign="top">
-      <h3>🚆 TrackIt Navigation System</h3>
-      <p>Transit-hub wayfinding with route visualizations, emergency contact flows, and responsive kiosk UI.</p>
-      <p>
-        <a href="https://sarthakbhamare.github.io/TrackIt-navigation/">Live Demo</a> ·
-        <a href="https://github.com/Sarthakbhamare/TrackIt-navigation">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-    </td>
-  </tr>
+  <td width="50%" valign="top">
+    <h3>🩺 Docare Healthcare Suite</h3>
+    <p>Telehealth portal featuring AI symptom checks, emergency SOS, payment flows, and detailed deployment docs.</p>
+    <p>
+      <a href="https://sarthakbhamare.github.io/Docare/">Live Demo</a> ·
+      <a href="https://github.com/Sarthakbhamare/Docare">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> Vanilla JS, Node.js services, MongoDB, PowerShell automation</p>
+  </td>
+</tr>
 
-  <!-- Row 3 -->
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 Roamify Trip Planner</h3>
-      <p>Interactive itinerary builder with destination guides, dining lists, and collaborative trip vaults.</p>
-      <p>
-        <a href="https://sarthakbhamare.github.io/Roamify-Trip-Planner/">Live Demo</a> ·
-        <a href="https://github.com/Sarthakbhamare/Roamify-Trip-Planner">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-    </td>
+<!-- Row 3 -->
+<tr>
+  <td width="50%" valign="top">
+    <h3>🚆 TrackIt Navigation System</h3>
+    <p>Transit-hub wayfinding with route visualizations, emergency contact flows, and responsive kiosk UI.</p>
+    <p>
+      <a href="https://sarthakbhamare.github.io/TrackIt-navigation/">Live Demo</a> ·
+      <a href="https://github.com/Sarthakbhamare/TrackIt-navigation">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
+  </td>
 
-    <td width="50%" valign="top">
-      <h3>🎟️ Tourista QR Guidance App</h3>
-      <p>Progressive tourist companion with QR-based venue scanning, curated highlights, and Tailwind-powered layouts.</p>
-      <p>
-        <a href="https://priya394.github.io/Tourista-Tourist-Guidance-QR-based-App/">Live Demo</a> ·
-        <a href="https://github.com/Sarthakbhamare/Tourista-Tourist-Guidance-QR-based-App">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> React, Vite, Tailwind CSS</p>
-    </td>
-  </tr>
+  <td width="50%" valign="top">
+    <h3>🧭 Roamify Trip Planner</h3>
+    <p>Interactive itinerary builder with guides, dining lists, and collaborative trip vaults.</p>
+    <p>
+      <a href="https://sarthakbhamare.github.io/Roamify-Trip-Planner/">Live Demo</a> ·
+      <a href="https://github.com/Sarthakbhamare/Roamify-Trip-Planner">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
+  </td>
+</tr>
 
-  <!-- Row 4 (Full Width) -->
-  <tr>
-    <td colspan="2" align="center">
-      <h3>👤 Personal Portfolio</h3>
-      <p>Primary landing page with case studies, resume, and contact funnels to productize freelance engagements.</p>
-      <p>
-        <a href="https://sarthakbhamare.github.io/My-Portfolio/">Live Site</a> ·
-        <a href="https://github.com/Sarthakbhamare/My-Portfolio">Repository</a>
-      </p>
-      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
-    </td>
-  </tr>
+<!-- Full width row -->
+<tr>
+  <td colspan="2" align="center">
+    <h3>👤 Personal Portfolio</h3>
+    <p>Primary landing page with case studies, resume, and contact funnels.</p>
+    <p>
+      <a href="https://sarthakbhamare.github.io/My-Portfolio/">Live Site</a> ·
+      <a href="https://github.com/Sarthakbhamare/My-Portfolio">Repository</a>
+    </p>
+    <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
+  </td>
+</tr>
 
 </table>
 
