@@ -69,7 +69,7 @@
       </p>
       <p><strong>Stack:</strong> Next.js 14, NestJS 11, Prisma, PostgreSQL, Tailwind</p>
     </td>
-
+   <tr>
     <td width="50%" valign="top">
       <h3>🩺 Docare Healthcare Suite</h3>
       <p>Telehealth portal featuring AI symptom checks, emergency SOS, payment flows, and detailed deployment docs.</p>
@@ -91,7 +91,7 @@
       </p>
       <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, GitHub Actions</p>
     </td>
-
+  <tr>
     <td width="50%" valign="top">
       <h3>🚆 TrackIt Navigation System</h3>
       <p>Transit-hub wayfinding with route visualizations, emergency contact flows, and responsive kiosk UI.</p>
@@ -113,7 +113,7 @@
       </p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
     </td>
- 
+   <tr>
     <td width="50%" valign="top">
       <h3>🎟️ Tourista QR Guidance App</h3>
       <p>Progressive tourist companion with QR-based venue scanning, curated highlights, and Tailwind-powered layouts.</p>
