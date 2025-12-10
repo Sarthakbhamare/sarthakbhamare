@@ -44,65 +44,69 @@
 
 ---
 
-### 🚀 Spotlights
+### 🚀 Live Projects
 
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🎮 Flappy Bird Accessibility Suite</h3>
-      <p>Remaster of the classic with OOP hygiene, deterministic physics, and a head-tracking accessibility layer for inclusive play.</p>
-      <ul>
-        <li>Modular Pygame architecture, 60 FPS loop tuning, interpolated collisions.</li>
-        <li>Accessibility roadmap: webcam head tracking, adaptive difficulty, BCI hooks.</li>
-        <li>Interactive docs & walkthrough in repo wiki.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>🏨 Slooze Hotel Management Platform</h3>
+      <p>Full-stack food-ordering RBAC system with multi-role dashboards, seeded data, and end-to-end order flows.</p>
       <p>
-        <a href="https://github.com/Sarthakbhamare/Flappy_bird_by_sarthak"><img src="https://img.shields.io/badge/Repo-10172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="https://sarthakbhamare.github.io/Flappy_bird_by_sarthak/"><img src="https://img.shields.io/badge/Live_Demo-10172a?style=for-the-badge&logo=python&logoColor=66E0FF"/></a>
+        <a href="https://slooze-hotel-management.vercel.app/">Live Frontend</a> ·
+        <a href="https://sloozehotelmanagement-production.up.railway.app/api">Live API</a> ·
+        <a href="https://github.com/Sarthakbhamare/Slooze_Hotel_Management-">Repository</a>
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-10172a?style=for-the-badge&logo=python&logoColor=3776AB"/>
-        <img src="https://img.shields.io/badge/Pygame-10172a?style=for-the-badge&logo=pygame&logoColor=white"/>
-      </p>
+      <p><strong>Stack:</strong> Next.js 14, NestJS 11, Prisma, PostgreSQL, Tailwind</p>
     </td>
-    <td width="45%" align="center">
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+    <td width="50%" valign="top">
+      <h3>🩺 Docare Healthcare Suite</h3>
+      <p>Telehealth portal featuring AI symptom checks, emergency SOS, payment flows, and detailed deployment docs.</p>
+      <p>
+        <a href="https://sarthakbhamare.github.io/Docare/">Live Demo</a> ·
+        <a href="https://github.com/Sarthakbhamare/Docare">Repository</a>
+      </p>
+      <p><strong>Stack:</strong> Vanilla JS, Node.js services, MongoDB, PowerShell automation</p>
     </td>
   </tr>
-</table>
-
-<table width="100%">
   <tr>
-    <td width="45%" align="center">
-      <img src="https://i.imgur.com/t2oJtR7.gif" alt="Roamify preview"/>
+    <td width="50%" valign="top">
+      <h3>🛡️ Cybersafe Awareness Hub</h3>
+      <p>Cybersecurity education experience with multilingual content, ML phishing detection, and research reports.</p>
+      <p>
+        <a href="https://sarthakbhamare.github.io/Cybersafe/">Live Demo</a> ·
+        <a href="https://github.com/Sarthakbhamare/Cybersafe">Repository</a>
+      </p>
+      <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, GitHub Actions</p>
     </td>
-    <td width="55%" valign="top">
-      <h3>🧭 Roamify Trip Planner</h3>
-      <p>Vanilla JS itinerary builder focused on collaboration, offline resilience, and design clarity.</p>
-      <ul>
-        <li>Drag-and-drop schedule blocks, dynamic pricing widgets, export-to-PDF.</li>
-        <li>PWA roadmap: background sync, cloud save, friend invites.</li>
-        <li>Design system documented in Figma + Storybook draft.</li>
-      </ul>
+    <td width="50%" valign="top">
+      <h3>🚆 TrackIt Navigation System</h3>
+      <p>Transit-hub wayfinding with route visualizations, emergency contact flows, and responsive kiosk UI.</p>
       <p>
-        <a href="https://github.com/Sarthakbhamare/Roamify-Trip-Planner"><img src="https://img.shields.io/badge/Repo-10172a?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="https://roamify-demo.netlify.app/"><img src="https://img.shields.io/badge/Live_Site-10172a?style=for-the-badge&logo=netlify&logoColor=00C7B7"/></a>
-        <a href="https://www.figma.com/file/XXXXX/Roamify"><img src="https://img.shields.io/badge/Design_File-10172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/></a>
+        <a href="https://sarthakbhamare.github.io/TrackIt-navigation/">Live Demo</a> ·
+        <a href="https://github.com/Sarthakbhamare/TrackIt-navigation">Repository</a>
       </p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>👤 Personal Portfolio</h3>
+      <p>Primary landing page with case studies, resume, and contact funnels to productize freelance engagements.</p>
       <p>
-        <img src="https://img.shields.io/badge/HTML5-10172a?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-        <img src="https://img.shields.io/badge/CSS3-10172a?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-        <img src="https://img.shields.io/badge/JavaScript-10172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+        <a href="https://sarthakbhamare.github.io/My-Portfolio/">Live Site</a> ·
+        <a href="https://github.com/Sarthakbhamare/My-Portfolio">Repository</a>
       </p>
+      <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Flappy_bird_by_sarthak&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Flappy_bird_by_sarthak&theme=tokyonight&hide_border=true"/></a>
-  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Roamify-Trip-Planner&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Roamify-Trip-Planner&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Slooze_Hotel_Management-&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Slooze_Hotel_Management-&theme=tokyonight&hide_border=true"/></a>
+  <a href="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Docare&theme=tokyonight&hide_border=true"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarthakbhamare&repo=Docare&theme=tokyonight&hide_border=true"/></a>
 </p>
 
+---
 ---
 
 ### 📈 Metrics
