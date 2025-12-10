@@ -1,38 +1,46 @@
-<!-- Neon Tech 2.0 README for Sarthak Bhamare -->
+README “Neon Tech” by Sarthak Bhamare
+Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
+-->
+
+<!-- Hero Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:05060c,100:10172a&text=Sarthak%20Bhamare&fontSize=52&fontColor=66e0ff&animation=fadeIn&fontAlignY=36" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a0f1e,100:111827&text=Sarthak%20Bhamare&fontSize=50&fontColor=66e0ff&animation=fadeIn&fontAlignY=38" alt="header"/>
 </p>
 
+<!-- Typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=66E0FF&center=true&vCenter=true&width=720&lines=Full+Stack+Engineer+%7C+UI/UX+Craftsman;Shipping+scalable+apps+with+polished+experiences;Learning+daily+%7C+Teaching+through+projects" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=66E0FF&center=true&vCenter=true&width=700&lines=Driven+Full+Stack+Developer;Building+scalable%2C+user-centric+apps;Always+exploring+new+tech+%26+clean+UX" alt="Typing SVG" />
+  </a>
 </p>
 
+<!-- Quick links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/sarthak-bhamare-899148288/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://sarthakbhamare.github.io/My-Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10172a.svg?style=for-the-badge&logo=vercel&logoColor=66E0FF" />
+    <img src="https://img.shields.io/badge/Portfolio-111827.svg?style=for-the-badge&logo=vercel&logoColor=66E0FF" />
   </a>
   <a href="mailto:sarthakbhamare12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-10172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
   </a>
+</p>
+
+<!-- Bio -->
+<p align="center">
+  I’m based in <b>Dhule, Maharashtra</b>, turning complex problems into elegant software.  
+  Clean architecture, performance, and delightful UI/UX are my jam.
+</p>
+
+<!-- Counters -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sarthakbhamare&label=Profile%20Views&color=0e75b6&style=flat" alt="views"/>
+  <img src="https://img.shields.io/github/followers/Sarthakbhamare?label=Followers&style=flat" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/Sarthakbhamare?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars"/>
 </p>
 
 ---
-
-### 🛰️ About
-
-- Dhule, Maharashtra → building thoughtful products with resilient architecture and memorable interfaces.  
-- Craft: full-stack web, Python tooling, immersive UIs, rapid prototyping.  
-- Currently: architecting a travel-planning experience and scaling game experiments for accessibility.  
-- Next: diving into edge inference, PWA offline flows, and design systems for dashboards.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarthakbhamare&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Sarthakbhamare?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/Sarthakbhamare?affiliations=OWNER%2CCOLLABORATOR&style=flat" />
-</p>
 
 ---
 
