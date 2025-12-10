@@ -1,6 +1,4 @@
-README “Neon Tech” by Sarthak Bhamare
-Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
--->
+
 
 <!-- Hero Banner -->
 <p align="center">
@@ -41,7 +39,6 @@ Tip: Many cards have theme controls. I used Tokyo Night / Neon-friendly combos.
 </p>
 
 ---
-
 ---
 
 ### 🧰 Toolbox
