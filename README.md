@@ -55,9 +55,9 @@
 <!-- 🚀 LIVE PROJECTS -->
 <!-- ---------------------------------------------------------------------- -->
 
-## 🚀 Live Projects
-
 <table width="100%">
+
+  <!-- Row 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🏨 Slooze Hotel Management Platform</h3>
@@ -69,7 +69,7 @@
       </p>
       <p><strong>Stack:</strong> Next.js 14, NestJS 11, Prisma, PostgreSQL, Tailwind</p>
     </td>
-   <tr>
+
     <td width="50%" valign="top">
       <h3>🩺 Docare Healthcare Suite</h3>
       <p>Telehealth portal featuring AI symptom checks, emergency SOS, payment flows, and detailed deployment docs.</p>
@@ -81,6 +81,7 @@
     </td>
   </tr>
 
+  <!-- Row 2 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🛡️ Cybersafe Awareness Hub</h3>
@@ -89,9 +90,9 @@
         <a href="https://sarthakbhamare.github.io/Cybersafe/">Live Demo</a> ·
         <a href="https://github.com/Sarthakbhamare/Cybersafe">Repository</a>
       </p>
-      <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, GitHub Actions</p>
+      <p><strong>Stack:</strong> HTML, JavaScript, Python microservices, Docker, MongoDB, GitHub Actions</strong></p>
     </td>
-  <tr>
+
     <td width="50%" valign="top">
       <h3>🚆 TrackIt Navigation System</h3>
       <p>Transit-hub wayfinding with route visualizations, emergency contact flows, and responsive kiosk UI.</p>
@@ -103,6 +104,7 @@
     </td>
   </tr>
 
+  <!-- Row 3 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🧭 Roamify Trip Planner</h3>
@@ -113,7 +115,7 @@
       </p>
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
     </td>
-   <tr>
+
     <td width="50%" valign="top">
       <h3>🎟️ Tourista QR Guidance App</h3>
       <p>Progressive tourist companion with QR-based venue scanning, curated highlights, and Tailwind-powered layouts.</p>
@@ -125,6 +127,7 @@
     </td>
   </tr>
 
+  <!-- Row 4 (Full Width) -->
   <tr>
     <td colspan="2" align="center">
       <h3>👤 Personal Portfolio</h3>
@@ -136,9 +139,8 @@
       <p><strong>Stack:</strong> HTML, CSS, JavaScript</p>
     </td>
   </tr>
-</table>
 
----
+</table>
 
 ### 📈 Metrics
 
